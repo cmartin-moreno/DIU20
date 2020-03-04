@@ -1,7 +1,7 @@
 # DIU20
 Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
 
-Grupo: DIU1_01AABB.  Curso: 2019/20 
+Grupo: DIU1_ODAKACI.  Curso: 2019/20 
 
 Proyecto: 
 
@@ -10,8 +10,8 @@ Descripción:
 Logotipo: 
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Mario Rodríguez Chaves     :octocat:     
+ * :bust_in_silhouette:  Carmen Martín Moreno     :octocat:
 
 ----- 
 
@@ -30,7 +30,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> Miss Travel es una combinación de app de citas y de viajes en la que puedes publicar viajes que estás dispuesto a realizar con otra persona, a la que le pagas el viaje. La hemos elegido porque nos ha parecido interesante la combinación de estos dos tipos de apps completamente distintas.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----

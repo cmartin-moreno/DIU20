@@ -37,6 +37,9 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 >>> Hemos seleccionado a Armando y a Vanessa porque son dos de los perfiles más comunes que se encuentran en la app.
 
+![Método UX](img/persona1.PNG)
+![Método UX](img/persona2.png)
+
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 

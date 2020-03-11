@@ -35,13 +35,13 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> Hemos seleccionado a Armando y a Vanessa porque son dos de los perfiles más comunes que se encuentran en la app.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> Para tener tanto una experiencia positiva como una negativa al usar la app. Así como, ver los dos puntos de vista de quien paga el viaje y quien no. 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----

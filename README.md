@@ -37,22 +37,22 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 >>> Hemos seleccionado a Armando y a Vanessa porque son dos de los perfiles más comunes que se encuentran en la app.
 
-![Método UX](img/persona1.PNG)
+![Método UX](img/persona1.png)
 ![Método UX](img/persona2.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-
 >>> Para tener tanto una experiencia positiva como una negativa al usar la app. Así como, ver los dos puntos de vista de quien paga el viaje y quien no. 
+
+![Método UX](img/map1.png)
+![Método UX](img/map2.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - github.com/cmartin-moreno/DIU20
+>>> - Valoración final (numérica): 73 - Good
+>>> - Comentario sobre la valoración: Se trata de un sitio web con una base robusta pero con problemas conceptuales.
 
 
 ## Paso 2. UX Design  

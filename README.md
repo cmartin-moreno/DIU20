@@ -65,10 +65,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
+![Método UX](P2/FeedbackCaptureGrid.png)
   
   
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?

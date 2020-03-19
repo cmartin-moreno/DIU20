@@ -50,7 +50,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>> - github.com/cmartin-moreno/DIU20
+>>> - https://docs.google.com/spreadsheets/d/1E-e0byYJXL5u_i7jzD4xmzKFcew5D4V76reaqwthQpQ/edit?usp=sharing
 >>> - Valoración final (numérica): 73 - Good
 >>> - Comentario sobre la valoración: Se trata de un sitio web con una base robusta pero con problemas conceptuales.
 

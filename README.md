@@ -72,11 +72,17 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 >>> Problema e hipótesis
 >>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
 >>> (150-200 caracteres)
+>>> Hemos decidido mantener la filosofía de Miss Travel, app de citas y viajes, pero centrándonos en viajes. Para ello, añadimos valoración de usuarios, sistema de pago y más detalles al publicar viajes.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+>>> Matriz de Usuarios/Tareas
+
+![Método UX](img/MatrizTareasUsuarios.PNG)
+
+>>> Sitemap de Miss Travel 
+![Método UX](P2/SiteMap.png)
 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
@@ -85,15 +91,14 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 >>> Identificar términos para diálogo con usuario  
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+>>> - https://docs.google.com/document/d/1cUTRaqhEUjHXfGKoGawyUuBvDDr61Y-JF7uDRkSsWXA/edit?usp=sharing
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+>>> Bocetos Lo-Fi para las distintas interfaces de usuario
+>>> - https://drive.google.com/drive/folders/139u182LvVbhPVnjFe1ZEwJD_2xoEN94h?usp=sharing
 
 
 ## Paso 3. Make (Prototyping) 

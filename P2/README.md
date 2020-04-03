@@ -1,6 +1,7 @@
-DIU - Practica2, entregables
+## DIU - Entregables de la Práctica 2
 
-Malla receptora de información 
-Sitemap & Task flow 
-Labelling 
-Wireframe & User flow 
+- Malla receptora de información
+- Matriz de Tareas-Usuarios 
+- Sitemap
+- Labelling 
+- Bocetos Lo-Fi

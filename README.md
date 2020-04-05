@@ -72,6 +72,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 >>> Problema e hipótesis
 >>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
 >>> (150-200 caracteres)
+>>>
 >>> Hemos decidido mantener la filosofía de Miss Travel, app de citas y viajes, pero centrándonos en viajes. Para ello, añadimos valoración de usuarios, sistema de pago y más detalles al publicar viajes.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 

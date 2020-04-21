@@ -61,7 +61,7 @@ Por otro lado, centrándonos en el estilo de la página nos hemos decantado por 
 
 ### Estilo: Colores
 
-Finalmente, con respecto a los colores nos hemos detantado por utilizar un estio minimalista y monocromático que utiliza el rojo como color principal. 
+Con respecto a los colores, nos hemos detantado por utilizar un estio minimalista y monocromático que utiliza el rojo como color principal. 
 
 ![Logo](imagenes/Colores.png "Paleta de colores")
 
@@ -83,4 +83,13 @@ Con más detalle, se muestra la siguiente tabla donde se asigna los colores conc
 | Cajas de texto | #E8E7E6 |
 | Checkboxes (fondo) | #FFFEFC |
 | Chechboxes (tick) | #E71D36 |
-| bubbles del chat | #F8C1C8 |
+| Bubbles del chat | #F8C1C8 |
+
+### Estilo: Iconos
+
+Finalmente, con respecto a los icónos de la aplicación, aquí se muestran las elecciones finales.
+
+![Logo](imagenes/Iconografia.png "Iconos")
+
+
+

@@ -103,12 +103,74 @@ Miembros
 >>> - https://drive.google.com/drive/folders/139u182LvVbhPVnjFe1ZEwJD_2xoEN94h?usp=sharing
 
 
-## Conclusión / Valoración de las prácticas
+## Paso 3. Mi equipo UX-Case Study 
 
 
->>> (90-150 caracteres) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
+-----
 
 
+>>> Analizar lo aprendido de la experiencia MuseApp 
+
+![Método UX](img/landing-page.png)  3.b Logotipo
+----
+
+
+>>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+
+![Método UX](img/guidelines.png) 3.c Guidelines
+----
+
+>>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+
+![Método UX](img/mockup.png)  3.d Video
+----
+
+>>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+
+
+## Paso 4. Evaluación 
+
+
+![Método UX](img/ABtesting.png) 4.a Casos asignados
+----
+
+
+>>> Descripción de las asignaciones (3 UX Case Study) y enlace a  sus repositorios.
+
+>>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones 
+
+
+![Método UX](img/usability-testing.png) 4.b User Testing
+----
+
+>>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
+
+
+![Método UX](img/Survey.png). 4.c Ranking 
+----
+
+>>> Concluya con un ranking de los casos evaluados 
+
+>>> Valoración personal 
+
+
+## Paso 5. Evaluación de Accesibilidad  
+
+
+![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
+----
+
+>>> Indica qué pretendes evaluar (de accesibilidad) y qué resultados has obtenido + Valoración personal
+
+>>> Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
+
+
+
+## Conclusión final / Valoración de las prácticas
+
+
+>>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
 
 
 

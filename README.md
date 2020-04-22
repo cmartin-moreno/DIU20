@@ -10,8 +10,11 @@ Descripción:
 En este proyecto estudiaremos el caso de Miss Travel, una plataforma de economía colaborativa para encontrar compañeros de viaje con intención romántica.
 
  Logotipo Equipo:
+ 
 ![logo](img/LogoOdakaci.png)
+
  Logotipo Miss Travel:
+ 
 ![logo](img/LogoMissTravel.png) 
 
 

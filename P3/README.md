@@ -19,7 +19,7 @@ Con respecto a la fase de diseño, hay que destacar que de las dos opciones prop
 
 Seguidamente, hemos visto muy apropiado la técnica utilizada para organizar y priorizar las funcionalidades de la app puesto que en proyectos de esta envergadura es importante tener una buena organización que se pueda cumplir de manera realista. 
 
-Por último, creemos que antes de comenzar con los wireframes deberían haber fijado la arquitectura de la información mediante un sitemap y labelling. Para nosotros resultó muy intuitivo y natural organizar la información de la aplicación antes de comenzar a plantear wireframes. Quizás, de esta forma se hubiesen ahorrado alguna repetición del proceso iterativo que han seguido para crear los bocetos de MuseMap. 
+Análogamente, creemos que antes de comenzar con los wireframes deberían haber fijado la arquitectura de la información mediante un sitemap y labelling. Para nosotros resultó muy intuitivo y natural organizar la información de la aplicación antes de comenzar a plantear wireframes. Quizás, de esta forma se hubiesen ahorrado alguna repetición del proceso iterativo que han seguido para crear los bocetos de MuseMap. 
 
 No obstante, nos gustaría destacar que nosotros creamos los bocetos Lo-fi en una única acción, y hemos visto útil e interesante el proceso iterativo que han utilizado. Además, lo han complementado con reuniones recurrentes de todos los miembros del equipo, lo que muestra una buena comunicación que busca crear un producto aceptado por todos.
 
@@ -34,7 +34,7 @@ En cuanto al diseño de funcionalidades y ubicaciones, para crear una UX más fa
 
 - En cada página del sitio web, se mostrará:
 	- En la parte superior: Una barra de navegación con las principales secciones de la aplicación: buscador de viajes y perfiles, mis viajes, favoritos, ayuda, chats y perfil.
-	- En la parte inferior: Una footer con acceso rápido a las redes sociales, el formulario de contacto y la página informativa del equipo de desarrollo de la aplicación.
+	- En la parte inferior: Un footer con acceso rápido a las redes sociales, el formulario de contacto y la página informativa del equipo de desarrollo de la aplicación.
 - Con el objetivo de aumentar la accesibilidad e internacionalización, para cada opción de la barra de navegación se mostrará un icono representativo y el nombre de la sección. 
 
 - Permitir acceder a ciertas secciones de la aplicación sin iniciar sesión. Las secciones públicas serán: búsqueda de viajes, ver información detallada de viajes (sin mostrar el usuario publicador), ayuda y todas las opciones del footer. 

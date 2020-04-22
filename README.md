@@ -9,11 +9,11 @@ Descripción:
 
 En este proyecto estudiaremos el caso de Miss Travel, una plataforma de economía colaborativa para encontrar compañeros de viaje con intención romántica.
 
-Logotipo Equipo:
-![Método UX](img/LogoOdakaci.png)
 
-Logotipo Miss Travel: 
-![Método UX](img/LogoMissTravel.png)
+![Método UX](img/LogoOdakaci.png) Logotipo Equipo:
+
+
+![Método UX](img/LogoMissTravel.png) Logotipo Miss Travel: 
 
 
 Miembros

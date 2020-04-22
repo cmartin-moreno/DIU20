@@ -13,10 +13,6 @@ En este proyecto estudiaremos el caso de Miss Travel, una plataforma de economí
  
 ![logo](img/LogoOdakaci.png)
 
- Logotipo Miss Travel:
- 
-![logo](img/LogoMissTravel.png) 
-
 
 Miembros
  * :bust_in_silhouette:   Mario Rodríguez Chaves     :octocat:     
@@ -114,6 +110,11 @@ Miembros
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
+
+ Logotipo Miss Travel:
+ 
+![logo](img/LogoMissTravel.png) 
+
 
 
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?

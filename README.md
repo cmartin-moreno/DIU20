@@ -105,19 +105,21 @@ Miembros
 ![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
 
-
 >>> Analizar lo aprendido de la experiencia MuseApp 
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
+>>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+
+Para el logo de Miss Travel hemos utilizado la herramienta Free Logo Desing (https://es.freelogodesign.org/). El diseño creado sigue el estilo minimalista que perseguimos durante toda la aplicación. Para ello, hemos establecido una imagen principal, una maleta, y hemos añadido el nombre de la app. La resolución utilizada ha sido 200x200px, ya que la resolución del banner superior de la página web hemos establecido que tendrá 400px de ancho.
+
+Para visualizarlo correctamente, lo presentamos en color negro, pero en el banner aparecerá en blanco como el resto de los iconos. 
+
  Logotipo Miss Travel:
  
-![logo](img/LogoMissTravel.png) 
+![logo](img/LogoMissTravel.png)
 
-
-
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----

@@ -118,7 +118,7 @@ Para visualizarlo correctamente, lo presentamos en color negro, pero en el banne
 
  Logotipo Miss Travel:
  
-![logo](img/LogoMissTravel.png)
+![logo](P3/LogoMissTravel.png)
 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines

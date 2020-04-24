@@ -108,9 +108,9 @@ Miembros
 >>> Analizar lo aprendido de la experiencia MuseApp 
 
 >>> En líneas generales, la experiencia mostrada en el caso de estudio MuseMap ha sido similar a la nuestra con Miss Travel. Entre los aspectos a destacar, nos ha parecido muy interesante el 
-uso de las entrevistas o mapas de empatía para identificar usuarios y sus necesidades, o la matriz de priorización de funcionalidades a la hora de diseña la aplicación. Por otro lado, hemos echado en falta técnicas como la matriz recceptora de información de las que el equipo de diseñadores de MuseMap se hubiese beneficiado a la hora de mostrar y organziar toda la información del análisis previo al diseño.
+uso de las entrevistas o mapas de empatía para identificar usuarios y sus necesidades, o la matriz de priorización de funcionalidades a la hora de diseñar la aplicación. Por otro lado, consideramos que podrían haber utilizado una matriz receptora de información para organizar y mostrar todos los datos recogidos en el análisis.
 
->>> El análisis completo del caso de estudio de UX de la aplicación MuseMap Street App se puede encontrar en el archivo [P3/README](../blob/master/P3/README.md)
+>>> El análisis completo del caso de estudio de UX de la aplicación MuseMap Street App se puede encontrar en el archivo [P3/README](../P3/README.md)
 
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
@@ -135,7 +135,7 @@ uso de las entrevistas o mapas de empatía para identificar usuarios y sus neces
 
 >>> Por otro lado, el estilo se caracteríza por un diseño minimalista y elegante, donde se sigue una linea de color monocromática en tonos rojos y rosados. 
 
->>> Para más información, se puede ver la guía de diseño completa en el archivo [P3/README](../blob/master/P3/README.md)
+>>> Para más información, se puede ver la guía de diseño completa en el archivo [P3/README](../P3/README.md)
 
 
 

@@ -107,24 +107,37 @@ Miembros
 
 >>> Analizar lo aprendido de la experiencia MuseApp 
 
+>>> En líneas generales, la experiencia mostrada en el caso de estudio MuseMap ha sido similar a la nuestra con Miss Travel. Entre los aspectos a destacar, nos ha parecido muy interesante el 
+uso de las entrevistas o mapas de empatía para identificar usuarios y sus necesidades, o la matriz de priorización de funcionalidades a la hora de diseña la aplicación. Por otro lado, hemos echado en falta técnicas como la matriz recceptora de información de las que el equipo de diseñadores de MuseMap se hubiese beneficiado a la hora de mostrar y organziar toda la información del análisis previo al diseño.
+
+>>> El análisis completo del caso de estudio de UX de la aplicación MuseMap Street App se puede encontrar en el archivo [P3/README](../blob/master/P3/README.md)
+
+
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
-Para el logo de Miss Travel hemos utilizado la herramienta Free Logo Desing (https://es.freelogodesign.org/). El diseño creado sigue el estilo minimalista que perseguimos durante toda la aplicación. Para ello, hemos establecido una imagen principal, una maleta, y hemos añadido el nombre de la app. La resolución utilizada ha sido 200x200px, ya que la resolución del banner superior de la página web hemos establecido que tendrá 400px de ancho.
+>>> Para el logo de Miss Travel hemos utilizado la herramienta Free Logo Desing (https://es.freelogodesign.org/). El diseño creado sigue el estilo minimalista que perseguimos durante toda la aplicación. Para ello, hemos establecido una imagen principal, una maleta, y hemos añadido el nombre de la app. La resolución utilizada ha sido 200x200px, ya que la resolución del banner superior de la página web hemos establecido que tendrá 400px de ancho.
 
-Para visualizarlo correctamente, lo presentamos en color negro, pero en el banner aparecerá en blanco como el resto de los iconos. 
+>>> Para visualizarlo correctamente, lo presentamos en color negro, pero en el banner aparecerá en blanco como el resto de los iconos. 
 
- Logotipo Miss Travel:
+>>>Logotipo Miss Travel:
 
 ![logo](P3/imagenes/LogoMissTravel.png)
 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
-----
 
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+
+>>> Miss Travel es una aplicación web diseñada para ser funcional y accesible. Algunas de las decisiones tomadas para conseguir estos objetivos han sido: seguir un diseño de bradcrumb para simplificar la navegación o presenta los botones con iconografía y texto para fomentar la internacionalización y la accesibilidad.
+
+>>> Por otro lado, el estilo se caracteríza por un diseño minimalista y elegante, donde se sigue una linea de color monocromática en tonos rojos y rosados. 
+
+>>> Para más información, se puede ver la guía de diseño completa en el archivo [P3/README](../blob/master/P3/README.md)
+
+
 
 ![Método UX](img/mockup.png)  3.d Video
 ----

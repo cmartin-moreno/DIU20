@@ -33,8 +33,8 @@ En conclusión, el proceso de análisis y diseño de MuseMap ha sido similar al 
 En cuanto al diseño de funcionalidades y ubicaciones, para crear una UX más favorable y agradable hemos establecido las siguientes directivas:
 
 - En cada página del sitio web, se mostrará:
-	- En la parte superior: Una barra de navegación con las principales secciones de la aplicación: buscador de viajes y perfiles, mis viajes, favoritos, ayuda, chats y perfil.
-	- En la parte inferior: Un footer con acceso rápido a las redes sociales, el formulario de contacto y la página informativa del equipo de desarrollo de la aplicación.
+	- En la parte superior: Una barra de navegación (de 400px de ancho) con las principales secciones de la aplicación: buscador de viajes y perfiles, mis viajes, favoritos, ayuda, chats y perfil.
+	- En la parte inferior: Un footer (de 60px de ancho) con acceso rápido a las redes sociales, el formulario de contacto y la página informativa del equipo de desarrollo de la aplicación.
 - Con el objetivo de aumentar la accesibilidad e internacionalización, para cada opción de la barra de navegación se mostrará un icono representativo y el nombre de la sección. 
 
 - Permitir acceder a ciertas secciones de la aplicación sin iniciar sesión. Las secciones públicas serán: búsqueda de viajes, ver información detallada de viajes (sin mostrar el usuario publicador), ayuda y todas las opciones del footer. 

@@ -117,8 +117,8 @@ Para el logo de Miss Travel hemos utilizado la herramienta Free Logo Desing (htt
 Para visualizarlo correctamente, lo presentamos en color negro, pero en el banner aparecerá en blanco como el resto de los iconos. 
 
  Logotipo Miss Travel:
- 
-![logo](P3/LogoMissTravel.png)
+
+![logo](P3/imagenes/LogoMissTravel.png)
 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines

@@ -138,11 +138,26 @@ uso de las entrevistas o mapas de empatía para identificar usuarios y sus neces
 >>> Para más información, se puede ver la guía de diseño completa en el archivo [P3/README](https://github.com/cmartin-moreno/DIU20/blob/master/P3/README.md)
 
 
-
-![Método UX](img/mockup.png)  3.d Video
+ 3.d Video
 ----
 
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+
+
+3.e Conclusión final / Valoración de las prácticas
+---- 
+
+>>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+
+
+>>> Nuestra valoración final del proceso de desarrollo ha sido gratamente positiva. Por primera vez, nos hemos puesto en una situación más profesional donde se ha tenido en cuenta al usuario a la hora de diseñar la aplicación. 
+
+>>> Utilizando técnica como son las Personas Ficticias o los Journey Maps hemos descubiertos formas muy eficientes y útiles para recoger información de usuarios De esta forma, creemos que hemos diseñado un producto accesible, intuitivo y funcional.
+
+>>> En cuanto a la experiencia diseño, cabe resaltar que no teniamos experiencia previa diseñando software. Por lo que, técnicas para organizar la arquitectura de la información como el sitemap y el labelling nos han parecido muy útiles a la hora de crear un buen diseño centrado en la UX. 
+
+>> >En resumen, una experiencia muy productiva y útil para tener buenas técnicas de desarrollo de software para el futuro.
+
 
 
 ## Paso 4. Evaluación 
@@ -171,29 +186,4 @@ uso de las entrevistas o mapas de empatía para identificar usuarios y sus neces
 >>> Valoración personal 
 
 
-## Paso 5. Evaluación de Accesibilidad  
 
-
-![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
-----
-
->>> Indica qué pretendes evaluar (de accesibilidad) y qué resultados has obtenido + Valoración personal
-
->>> Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
-
-
-
-## Conclusión final / Valoración de las prácticas
-
-
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
-
-
->>> Nuestra valoración final del proceso de desarrollo ha sido gratamente positiva. Por primera vez, nos hemos puesto en una situación más profesional donde se ha tenido en cuenta al usuario a la hora de diseñar la aplicación. 
-
->>> Utilizando técnica como son las Personas Ficticias o los Journey Maps hemos descubiertos formas muy eficientes y útiles para recoger información de usuarios De esta forma, creemos que hemos diseñado un producto accesible, intuitivo y funcional.
-
->>> En cuanto a la experiencia diseño, cabe resaltar que no teniamos experiencia previa diseñando software. Por lo que, técnicas para organizar la arquitectura de la información como el sitemap y el labelling nos han parecido muy útiles a la hora de crear un buen diseño centrado en la UX. 
-
->> >En resumen, una experiencia muy productiva y útil para tener buenas técnicas de desarrollo de software para el futuro.

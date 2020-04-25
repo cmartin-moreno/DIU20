@@ -26,7 +26,7 @@ No obstante, nos gustaría destacar que nosotros creamos los bocetos Lo-fi en un
 En conclusión, el proceso de análisis y diseño de MuseMap ha sido similar al nuestro con Miss Travel. Sin embargo, hemos encontrado nuevas técnicas que creemos que nos hubiesen favorecido en el desarrollo de nuestro proyecto. Entre ellas destacamos las entrevistas a usuarios reales, la matriz de priorización de funcionalidades y el desarrollo incremental de bocetos lo-fi. Igualmente, consideramos que en el estudio de MuseMap podría haber utilizado la matriz receptora de información, y haber diseñado la arquitectura de la información (sitemap y labelling) antes de comenzar con los diseños de interfaz de usuario.
 
 
-## Gúia de diseño
+## Guía de diseño
 
 ### Funcionalidades y Ubicaciones
 
@@ -45,7 +45,7 @@ En cuanto al diseño de funcionalidades y ubicaciones, para crear una UX más fa
 
 - Para procesos que impliquen varios pasos como podría ser publicar viajes, incluir un seguimiento del progreso donde aparezcan todos los pasos para completar la acción, señalizando el paso en el que se encuentra el usuario.
 
-- Priorizar la sencillez en los formularios incluyendo checkboxes o menús desplegables para preguntas con respuestas que se puedan prefijar. Además, en este tipo de campos se incluirá una opción "Otro: " para dar flexibildiad a las respuestas. 
+- Priorizar la sencillez en los formularios incluyendo checkboxes o menús desplegables para preguntas con respuestas que se puedan prefijar. Además, en este tipo de campos se incluirá una opción "Otro: " para dar flexibilidad a las respuestas. 
 
 - Mostrar errores de formularios en tiempo real.
 
@@ -61,7 +61,7 @@ Por otro lado, centrándonos en el estilo de la página nos hemos decantado por 
 
 ### Estilo: Colores
 
-Con respecto a los colores, nos hemos detantado por utilizar un estio minimalista y monocromático que utiliza el rojo como color principal. 
+Con respecto a los colores, nos hemos decantado por utilizar un estilo minimalista y monocromático que utiliza el rojo como color principal. 
 
 ![Logo](imagenes/Colores.png "Paleta de colores")
 
@@ -78,7 +78,7 @@ Con más detalle, se muestra la siguiente tabla donde se asigna los colores conc
 | Titulo e iconos de la barra de navegación y footer | #FFFFFF |
 | Botones | #E71D36 | 
 | Texto en botones | #FFFFFF |
-| Menus | #FFFEFC |
+| Menús | #FFFEFC |
 | Elemento seleccionado | #F498A3 |
 | Cajas de texto | #E8E7E6 |
 | Checkboxes (fondo) | #FFFEFC |
@@ -87,7 +87,7 @@ Con más detalle, se muestra la siguiente tabla donde se asigna los colores conc
 
 ### Estilo: Iconos
 
-Finalmente, con respecto a los icónos de la aplicación, aquí se muestran las elecciones finales.
+Finalmente, con respecto a los iconos de la aplicación, aquí se muestran las elecciones finales.
 
 ![Logo](imagenes/Iconografia.png "Iconos")
 

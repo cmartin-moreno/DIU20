@@ -144,6 +144,8 @@ uso de las entrevistas o mapas de empatía para identificar usuarios y sus neces
 
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
+>>> El vídeo se encuentra en el siguiente enlace de Google Drive https://drive.google.com/drive/folders/1W0cWyLpy1G-36iHVi_489dehFkwCnHvJ?usp=sharing
+
 
 3.e Conclusión final / Valoración de las prácticas
 ---- 

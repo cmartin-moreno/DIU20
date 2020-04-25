@@ -190,5 +190,10 @@ uso de las entrevistas o mapas de empatía para identificar usuarios y sus neces
 
 
 
+>>> Nuestra valoración final del proceso de desarrollo ha sido gratamente positiva. Por primera vez, nos hemos puesto en una situación más profesional donde se ha tenido en cuenta al usuario a la hora de diseñar la aplicación. 
 
+>>> Utilizando técnica como son las Personas Ficticias o los Journey Maps hemos descubiertos formas muy eficientes y útiles para recoger información de usuarios De esta forma, creemos que hemos diseñado un producto accesible, intuitivo y funcional.
 
+>>> En cuanto a la experiencia diseño, cabe resaltar que no teniamos experiencia previa diseñando software. Por lo que, técnicas para organizar la arquitectura de la información como el sitemap y el labelling nos han parecido muy útiles a la hora de crear un buen diseño centrado en la UX. 
+
+>> >En resumen, una experiencia muy productiva y útil para tener buenas técnicas de desarrollo de software para el futuro.

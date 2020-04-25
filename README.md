@@ -128,6 +128,7 @@ uso de las entrevistas o mapas de empatía para identificar usuarios y sus neces
 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
+----
 
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 

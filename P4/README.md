@@ -12,6 +12,7 @@ Entre los puntos fuertes, podemos destacar un buen trabajo a la hora de identifi
 
 Finalmente, hemos determinado que los puntos débiles de su UX Case Study están relacionados con el diseño de la aplicación. La arquitectura de la información necesita un Labelling que describa y acompañe cada sección expuesta en el sitemap. Adicionalmente, los wireframes deberian haber mostrado todas las secciones introducidas en la arquitectura de la información cumpliendo las directrices de diseño propuestas.
 
+[Hoja de Evaluación DIU1 PAPAYA](https://github.com/cmartin-moreno/DIU20/blob/master/P4/UXCaseStudyReview-DIU1_Papaya.pdf)\
 
 ## Caso 2
 

@@ -172,8 +172,9 @@ uso de las entrevistas o mapas de empatía para identificar usuarios y sus neces
 
 >>> Descripción de las asignaciones (3 UX Case Study) y enlace a  sus repositorios.
 
->>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones 
-
+>>> [DIU1.PAPAYA](https://github.com/RubenDelgadoPareja/DIU20)
+>>> [DIU2.Plata](https://github.com/Superkorlas/DIU_Practicas)
+>>> [DIU3.MAP](https://github.com/MiguelAlberti/DIU20)
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----

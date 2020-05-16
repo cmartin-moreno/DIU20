@@ -70,7 +70,7 @@ Miembros
 >>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
 >>> (150-200 caracteres)
 >>>
->>> Hemos decidido mantener la filosofía de Miss Travel, app de citas y viajes, pero centrándonos en viajes. Para ello, añadimos valoración de usuarios, sistema de pago y más detalles al publicar viajes.
+>>> Hemos decidido mantener la filosofía de Miss Travel, app de citas y viajes, pero centrándonos en viajes. Para ello, añadimos valoración de usuarios, sistema de pago y más detalles al publicar viajes. Para más información, se puede visitar el documentos de [PROPUESTA](https://github.com/cmartin-moreno/DIU20/blob/master/P2/PROPUESTA.pdf)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----

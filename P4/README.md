@@ -23,7 +23,7 @@ Descripcion y hoja de valoración.
 
 ## Caso 3
 
-[ Hoja de valoración - DIU3.MAP](https://github.com/RubenDelgadoPareja/DIU20)
+[ Hoja de valoración - DIU3.MAP](https://github.com/cmartin-moreno/DIU20/blob/master/P4/UXCaseStudyReview-DIU3_MAP.pdf)
 
 
 ## User Testing

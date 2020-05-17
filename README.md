@@ -197,9 +197,12 @@ uso de las entrevistas o mapas de empatía para identificar usuarios y sus neces
 ![Método UX](img/Survey.png). 4.c Ranking 
 ----
 
->>> Concluya con un ranking de los casos evaluados 
+>>> El ranking final es:
+- DIU3.MAP con 89 puntos, 
+- DIU2.PLATA con 81 puntos y 
+- DIU1.PAPAYA con 63 puntos
 
->>> Valoración personal 
+>>> La Valoración Personal y conclusión e la práctica se encuentra en el [README]((https://github.com/cmartin-moreno/DIU20/blob/master/P4/README.md)
 
 
 

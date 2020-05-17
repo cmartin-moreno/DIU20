@@ -44,6 +44,8 @@ Armando tiene un par de días libres en el trabajo y quiere hacer una escapada c
 
 ### Experiencia en Bladi
 
+Armando tiene una gran inversión en inmuebles, a lo largo de su carrera ha comprado varios pisos en Nueva York para alquilarlos. Hasta ahora, la comunicación con sus inquilinos y los pagos los hacía de manera convencional, pero ahora tiene tantos pisos que no puede mantener en su cabeza todos los pisos con todos los inquilinos y pagos pendientes, así que decide buscar una app pasa solucionar el problema. Encuentra la app de Bladi al buscarla en google y decide probarla. Le molesta que no puedas crear un piso con sus inquilinos desde 0, sino que tienes que crear el piso y que los inquilinos acepte, pero no le supone mucho problema. Hace una prueba con los inquilinos de uno de sus pisos y al ver la efectividad de la app decide usarla para llevar las cuentas de todos sus pisos.
+
 ### Experiencia en CoNect
 
 Armando ha conocido una chica con la que está comezando a tener una relación. Lleva unos días muy duros de trabajo y decide pedirle una cita para desconectar. En la cita anterior, ambos coincidieron en que les encantaba la música clásica y decide buscar algún concierto al que asistir. Para ello, utiliza CoNect donde encuentra varias actividades que coinciden con lo que busca. Tras registrarse, procede a apuntarse y observa que no puede reservar dos plazas simultáneamente. No quiere arriesgarse a que su acompañante se quede sin plaza, sale de la aplicación y decide sacar las dos entradas en taquilla.

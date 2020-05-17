@@ -25,7 +25,7 @@ Entre los puntos fuertes, cabe destacar la expansión de la funcionalidad de la 
 Respecto a los puntos débiles, el vídeo podría haber estado mejor editado y haber sido más conciso. El objetivo no era explicar absolutamente todo lo realizado, pues en un minuto y medio no da tiempo, sino resaltar los aspectos decisivos del proceso y vender la app.
 
 
-[ Hoja de valoración - DIU3.MAP](https://github.com/cmartin-moreno/DIU20/blob/master/P4/UXCaseStudyReview-DIU2_PLATA.pdf)
+[ Hoja de valoración - DIU2.PLATA](https://github.com/cmartin-moreno/DIU20/blob/master/P4/UXCaseStudyReview-DIU2_PLATA.pdf)
 ## Caso 3
 
 [ Hoja de valoración - DIU3.MAP](https://github.com/cmartin-moreno/DIU20/blob/master/P4/UXCaseStudyReview-DIU3_MAP.pdf)

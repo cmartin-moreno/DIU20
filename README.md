@@ -172,14 +172,26 @@ uso de las entrevistas o mapas de empatía para identificar usuarios y sus neces
 
 >>> Descripción de las asignaciones (3 UX Case Study) y enlace a  sus repositorios.
 
->>> [DIU1.PAPAYA](https://github.com/RubenDelgadoPareja/DIU20)
->>> [DIU2.Plata](https://github.com/Superkorlas/DIU_Practicas)
->>> [DIU3.MAP](https://github.com/MiguelAlberti/DIU20)
+>>> El UX Case Study desarrollado por el equipo DUI1.PAPAYA analiza y desarrolla Travel Grain, una red social de viajeros donde se pondrán compartir fotos y experiencias sobre los viajes realizados.
+
+>>> [Repositorio DIU1.PAPAYA](https://github.com/RubenDelgadoPareja/DIU20)  
+>>> [Valoración DIU1.PAPAYA](https://github.com/cmartin-moreno/DIU20/blob/master/P4/README.md)
+
+>>> [DIU2.Plata](https://github.com/Superkorlas/DIU_Practicas)  
+>>> [Valoración DIU2.PLATA](https://github.com/cmartin-moreno/DIU20/blob/master/P4/README.md)
+
+>>> Para este UX Case Study, el equipo DIU3.MAP presenta el proceso de diseño de la aplicación CoNect, una aplicación donde particulares y empresas podrán publicar eventos de ocio.
+
+>>> [DIU3.MAP](https://github.com/MiguelAlberti/DIU20)  
+>>> [Valoración DIU3.MAP](https://github.com/cmartin-moreno/DIU20/blob/master/P4/README.md)
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
+>>> Para presentar las situaciones conflictivas en las tres aplicaciones valoradas hemos utilizado a Armando.
+>>> [Situación DIU1.PAPAYA](https://github.com/cmartin-moreno/DIU20/blob/master/P4/README.md)  
+>>> [Situación DIU2.PLATA](https://github.com/cmartin-moreno/DIU20/blob/master/P4/README.md)  
+>>> [Situación DIU3.MAP](https://github.com/cmartin-moreno/DIU20/blob/master/P4/README.md)
 
 
 ![Método UX](img/Survey.png). 4.c Ranking 

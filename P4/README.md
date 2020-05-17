@@ -8,8 +8,8 @@ Entre los puntos fuertes, podemos destacar un buen trabajo a la hora de identifi
 
 Finalmente, hemos determinado que los puntos débiles de su UX Case Study están relacionados con el diseño de la aplicación. La arquitectura de la información necesita un Labelling que describa y acompañe cada sección expuesta en el sitemap. Adicionalmente, los wireframes deberian haber mostrado todas las secciones introducidas en la arquitectura de la información cumpliendo las directrices de diseño propuestas.
 
-[ Repositorio DIU1.PAPAYA](https://github.com/RubenDelgadoPareja/DIU20)  
-[ Hoja de valoración - DIU1.PAPAYA](https://github.com/cmartin-moreno/DIU20/blob/master/P4/DIU1.PAPAYA_review.pdf)
+- [ Repositorio DIU1.PAPAYA](https://github.com/RubenDelgadoPareja/DIU20)  
+- [ Hoja de valoración - DIU1.PAPAYA](https://github.com/cmartin-moreno/DIU20/blob/master/P4/DIU1.PAPAYA_review.pdf)
 
 
 ## Caso 2 - DIU2.PLATA
@@ -21,8 +21,8 @@ Entre los puntos fuertes, cabe destacar la expansión de la funcionalidad de la 
 
 Respecto a los puntos débiles, el vídeo podría haber estado mejor editado y haber sido más conciso. El objetivo no era explicar absolutamente todo lo realizado, pues en un minuto y medio no da tiempo, sino resaltar los aspectos decisivos del proceso y vender la app.
 
-[ Repositorio DIU2.Plata](https://github.com/Superkorlas/DIU_Practicas) 
-[ Hoja de valoración - DIU2.PLATA](https://github.com/cmartin-moreno/DIU20/blob/master/P4/DIU2.PLATA_review.pdf)
+- [ Repositorio DIU2.Plata](https://github.com/Superkorlas/DIU_Practicas) 
+- [ Hoja de valoración - DIU2.PLATA](https://github.com/cmartin-moreno/DIU20/blob/master/P4/DIU2.PLATA_review.pdf)
 
 ## Caso 3 - DIU3.MAP
 
@@ -32,8 +32,8 @@ Entre los puntos fuertes hay que resaltar un gran trabajo de diseño. El trabajo
 
 Por otro lado, entre los aspectos a mejorar detectamos que podrían haber sacado más información del análisis de FeverUp. Los journey maps podrían haber estado más orientados a mostrar deficiencias de diseño en la aplicación y el informe de usabilidad debería haber expuesto los errores de diseño que se han detectado.
 
-[ Repositorio DIU3.MAP](https://github.com/MiguelAlberti/DIU20)
-[ Hoja de valoración - DIU3.MAP](https://github.com/cmartin-moreno/DIU20/blob/master/P4/DIU3.MAP_review.pdf)
+- [ Repositorio DIU3.MAP](https://github.com/MiguelAlberti/DIU20)
+- [ Hoja de valoración - DIU3.MAP](https://github.com/cmartin-moreno/DIU20/blob/master/P4/DIU3.MAP_review.pdf)
 
 
 ## User Testing

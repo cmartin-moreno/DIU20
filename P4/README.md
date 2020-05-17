@@ -18,9 +18,14 @@ Finalmente, hemos determinado que los puntos débiles de su UX Case Study están
 
 ## Caso 2
 
-Descripcion y hoja de valoración.  
+En el caso 2, analizaremos el UX Case Study desarrollado por el equipo DIU2.PLATA formado por Alejandro de la Plata Ramos. La aplicación desarrollada es Bladi y consiste en una aplicación de búsqueda de alquileres y gestión de gastos entre los inquilinos del piso.
+
+Entre los puntos fuertes, cabe destacar la expansión de la funcionalidad de la app original. Mientras que Badi(la app original) se limita a la búsqueda de pisos en alquiler o de compañeros de piso, Bladi quiere servir para, una vez encontrado el piso, gestionar los gastos comunes de sus integrantes. Asimismo, el diseño de los bocetos de la app es sólido y claro y la malla receptora es muy extensa y concisa.
+
+Respecto a los puntos débiles, el vídeo podría haber estado mejor editado y haber sido más conciso. El objetivo no era explicar absolutamente todo lo realizado, pues en un minuto y medio no da tiempo, sino resaltar los aspectos decisivos del proceso y vender la app.
 
 
+[ Hoja de valoración - DIU3.MAP](https://github.com/cmartin-moreno/DIU20/blob/master/P4/UXCaseStudyReview-DIU2_PLATA.pdf)
 ## Caso 3
 
 [ Hoja de valoración - DIU3.MAP](https://github.com/cmartin-moreno/DIU20/blob/master/P4/UXCaseStudyReview-DIU3_MAP.pdf)

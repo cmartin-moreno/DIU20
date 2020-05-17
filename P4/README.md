@@ -19,7 +19,7 @@ En el caso 2, analizaremos el UX Case Study desarrollado por el equipo DIU2.PLAT
 
 Entre los puntos fuertes, cabe destacar la expansión de la funcionalidad de la app original. Mientras que Badi(la app original) se limita a la búsqueda de pisos en alquiler o de compañeros de piso, Bladi quiere servir para, una vez encontrado el piso, gestionar los gastos comunes de sus integrantes. Asimismo, el diseño de los bocetos de la app es sólido y claro y la malla receptora es muy extensa y concisa.
 
-Respecto a los puntos débiles, el vídeo podría haber estado mejor editado y haber sido más conciso. El objetivo no era explicar absolutamente todo lo realizado, pues en un minuto y medio no da tiempo, sino resaltar los aspectos decisivos del proceso y vender la app.
+Respecto a los puntos débiles, el vídeo podría haber estado mejor editado y haber sido más conciso. El objetivo no era explicar absolutamente todo lo realizado, pues en un minuto y medio no da tiempo, sino resaltar los aspectos decisivos del proceso y vender la app. El sitemap tiene varios defectos que dificultan su comprensión, como elementos poco definidos. Tampoco ha creado ningún logo para la nueva app.
 
 - [ Repositorio DIU2.Plata](https://github.com/Superkorlas/DIU_Practicas) 
 - [ Hoja de valoración - DIU2.PLATA](https://github.com/cmartin-moreno/DIU20/blob/master/P4/DIU2.PLATA_review.pdf)
@@ -51,3 +51,9 @@ Armando tiene una gran inversión en inmuebles, a lo largo de su carrera ha comp
 Armando ha conocido una chica con la que está comezando a tener una relación. Lleva unos días muy duros de trabajo y decide pedirle una cita para desconectar. En la cita anterior, ambos coincidieron en que les encantaba la música clásica y decide buscar algún concierto al que asistir. Para ello, utiliza CoNect donde encuentra varias actividades que coinciden con lo que busca. Tras registrarse, procede a apuntarse y observa que no puede reservar dos plazas simultáneamente. No quiere arriesgarse a que su acompañante se quede sin plaza, sale de la aplicación y decide sacar las dos entradas en taquilla.
 
 ## Conclusiones
+  El ranking final queda como: 
+    DIU3.MAP con 89 puntos, 
+    DIU2.PLATA con 81 puntos y
+    DIU1.PAPAYA con 63 puntos
+
+  En conclusión, hemos podido ver los diferentes enfoques que algunos compañeros han tomado a la hora de afrontar la tarea de estas prácticas. El diseño de una aplicación robusta viene determinado en gran medida por el análisis inicial que se haga sobre las experiencias del usuario sobre esa app, ya que a partir de esas conclusiones puedes obtener un modelo que sepa responder a sus necesidades. Todos los grupos han tenido una aproximación similar, teniendo que hacer los mismos análisis, pero cada grupo ha destacado en algo distinto: Papaya ha realizado un muy buen análisis de la experiencia de usuario detectando las carencias de Travello, PLATA ha sabido utilizar esas carencias para crear una nueva funcionalidad para su app y MAP ha creado un diseño sólido, con muy buenos sitemaps y labelling.
